@@ -1,0 +1,119 @@
+* {
+  font-size: 21px;
+  margin: 0px;
+  font-family: "Times New Roman", Times, serif;
+  list-style-type: none;
+}
+
+.firstdiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #66bfbf;
+  padding-top: 4rem;
+}
+.firstdiv__header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.firstdiv__header h1 {
+  font-size: 5rem;
+  font-family: "sacramento", cursive;
+  color: #fff;
+}
+
+.firstdiv__desc {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100vw;
+  padding: 6rem 0;
+}
+.firstdiv__desc h2 {
+    font-size: 1.8rem;
+    font-family: "montserrat",sans-serif;
+    color: #fff;
+    text-align: center;
+}
+ p {
+    line-height: 2;
+}
+.skills {
+    display:flex ;
+    flex-direction:column ;
+    padding: 1.5rem 0 ;
+    align-items: center;
+    text-align: center;
+}
+.skills h2 {
+    color: #66bfbf;
+    font-size: 1.8rem ;
+    font-family: "montserrat",sans-serif;
+}
+.skills h3 {
+    color: #11999e;
+    font-size: 1.17em ;
+    font-family: "montserrat",sans-serif;
+}
+.services {
+    text-align: center;
+    padding: 3rem 0;
+    line-height: 2;
+    background-color: #acdbdb;
+
+}
+.services h2 {
+    color: #66bfbf;
+    font-size: 1.8rem ;
+    font-family: "montserrat",sans-serif;
+} 
+.contact {
+    display :flex ;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 0;
+    line-height: 2;
+    text-align: center;
+
+}
+.contact h2 {
+    color: #66bfbf;
+    font-size: 1.8rem ;
+    font-family: "montserrat",sans-serif;
+} 
+.contact h3 {
+    color: #11999e;
+    font-size: 1.1rem ;
+    font-family: "montserrat",sans-serif;
+} 
+.formdiv {
+    padding: 2rem 0;
+}
+.formdiv__buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100vw;
+}
+.footer {
+    display: flex;
+    flex-direction:column ;
+    text-align: center;
+    background-color:#11999e ;
+    padding: 2rem;
+    font-size: 1.8;
+}
+#Submit_button {
+    color: #fff ;
+    background-color: #11999e;
+    line-height: 2;
+    border: none;
+    border-radius: 0.4rem;
+    padding: 0.1rem 0.5rem;
+}
+
+    

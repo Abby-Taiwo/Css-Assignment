@@ -1,0 +1,63 @@
+h1 {
+    font-style: italic ;
+}
+.firstdiv {
+    background-color: aqua ;
+    height: 500px ;
+    text-align: center ;
+}
+.seconddiv img {
+    float: left ;
+    width: 200px ;
+    height: 200px ;
+}
+h1 {
+    color: white ;
+    font-size: 100px ;
+    text-align: center ;
+}
+
+.seconddiv p {
+    font-size: 20px;
+}
+.seconddiv h2 {
+    color: white ;
+    font-size: 40px;
+}
+.skills {
+    background-color: white;
+    height: 700px ;
+    text-align: center;
+}
+.skills h2 {
+    font-size: 50px;
+    color: aqua;
+}
+ #image2 {
+     width : 350px;
+
+ }
+ #image3 {
+     width: 200px;
+ }
+ h3 {
+     color: aqua;
+     font-size: 30px;
+
+ }
+
+ #div3 {
+     background-color: aqua;
+     text-align: center;
+     border : 1px solid gray ;
+     height : 400px ;
+     font-size: 25px ;
+
+ }
+ 
+ 
+
+ 
+ 
+ 
+    
